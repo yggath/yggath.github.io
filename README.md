@@ -1,2 +1,0 @@
-# yggath.github.io
-Site
